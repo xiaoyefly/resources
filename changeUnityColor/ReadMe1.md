@@ -5,7 +5,7 @@ tags: []
 
 可以通过WinHex软件修改编辑安装路径下的Unity\Editor\Unity.exe的颜色值
 WinHex以及WinHex破解软件在最下面有下载链接
-
+![](3-kj2op0jg.png)
 1.用WinHex打开Unity.exe
 
 ![1.png](https://upload-images.jianshu.io/upload_images/22933906-df5f4bd269184a99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
