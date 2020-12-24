@@ -28,5 +28,7 @@ WinHex破解步骤
 ![4.png](https://upload-images.jianshu.io/upload_images/22933906-2967dfd4e69ce89f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 2打开winhex.exe,然后点击Help下的Register，并把刚才复制的文件粘贴进去，点击OK
+![6.png](https://upload-images.jianshu.io/upload_images/22933906-8a0e0f8adbda439f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 3然后就破解完成啦
