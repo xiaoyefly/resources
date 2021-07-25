@@ -6,7 +6,7 @@ WinHex以及WinHex破解软件在最下面有下载链接
 ![1.png](https://upload-images.jianshu.io/upload_images/22933906-df5f4bd269184a99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-2点击Search下的Replace Hel Values
+2 点击Search下的Replace Hel Values
 
   Search for输入 ：84C0750833C0
   Replace with输入：84C0740833C0
